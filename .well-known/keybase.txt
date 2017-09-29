@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/cryptopeg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cryptopegorg.github.io
+  * I am cryptopeg (https://keybase.io/cryptopeg) on keybase.
+  * I have a public key with fingerprint 01AB 5270 A0A6 4A10 3E91  90C9 3C98 8552 0FF2 0001
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019f952ad5b7f229b2e41bc8a8d9b1ab600ae44a44ef274ccfc77d87e66d73bb6a0a",
+      "fingerprint": "01ab5270a0a64a103e9190c93c9885520ff20001",
+      "host": "keybase.io",
+      "key_id": "3c9885520ff20001",
+      "kid": "01019f952ad5b7f229b2e41bc8a8d9b1ab600ae44a44ef274ccfc77d87e66d73bb6a0a",
+      "uid": "6f9b124da5878bebaea450fb71ad2d19",
+      "username": "cryptopeg"
+    },
+    "service": {
+      "hostname": "cryptopegorg.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1506697351,
+  "expire_in": 157680000,
+  "prev": "b3b55c7164522646406f69e0263e1ea07bf3a83793d1ebeba304e4f3a65d4c03",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltIFUEYPqfsohFpUQldyIUow2Ozl9nLwe43Kk0yyqTsNLM7e87mcXfbs5pi
+EhRFRaFRhomIlbfoIXqIBLGIbmZZUD1kUS8RakJBZlhJNmv1Ej32NMw33/fN9/38
+lZPH+hL8GdWHc6Z88vn9D/uwL+/x7royBltaKRMsYwrI6EGiGom5oQJDY4IMYAGr
+6ArkkAaxpHOcgjkisFiVkawpmEVYBAARQUCCQHROElRVVyVJkyUiiprEYywigJg0
+RjfMMHFsxzDdUVuEIScB+iYKiAU8UVgFqAqvKrIMIQd0nQMAsFQYsWKegobDKEbS
+DYti9BIajfcP/n/OXTRqJ+pUwwkagrIkY4IRQQIEOpZYpHEaq3jEGHFMVEgoW3VK
+bdeySZgpT2MoXGyoxJusV+VviuWE08OGGynCv6rZjuVaqhWlnIjr2rGg5+GW2p5o
+H8Gh33YhbJgaHSlVFBMnZlgmE2QpU3UNz5+FQBQViYdsGkNKbMMhIcNjQEmU6ZyA
+9w9Ri6kn5jGEqsSKAuQ4URAFIOqiQgAn8oQlCEhY55HMSwqvscRrzgOBCBQToSao
+gGe8hntNiwlCmhOFqWXMCJvILXIIU55wzM/H+fwJvjkzUuL8l3Ps+qYNiUtPVT74
+s4bjxng76EuIT/yDtB+eMKLxK2DqpBL5ZnfGmvO1mbfzRqJli2b1Z19Pbgx9PH0r
+8U2jeXtL1/rcW0dL3oUrXnTOq2od+FHaybcunvbqibu5bVV0rn/y6+ph2FDYs/99
+72B/R+GDepLaMt+um/d9ydaU2h/DXzf2RPn8HrvGvdf9SL7v3D2ee7e5ggsknrtR
+WP5sZcfUK3taG/j4oY4duffOfulvXPChaWegGcy+xL1ZVvB8+uyBPv+B5NXjut5m
+L5/Qm3mk5szLhd+27VrefLn1TuahyIXYyY6ktIvjw2MH5YltFVnSiS+V1xZXHBx5
+Gmh8l7Qp5WogBfdeaWgZSqqa+flGftba9VXpjrkuOb++/c5WbftP
+=rdh3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cryptopeg
+
+==================================================================
+
