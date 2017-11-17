@@ -38,6 +38,7 @@
                                 <li><a href="#benefit">Benefits</a></li>
                                 <li><a href="#feature">Features</a></li>
                                 <li><a href="whitepaper.pdf">Whitepaper</a></li>
+                                <li><a href="#faq">FAQ</a></li>
                                 <li><a href="#contact">Contact</a></li>
                             </ul>
                         </div>
@@ -301,6 +302,105 @@
             </div>
         </div>
     </section>
+    <!---->
+    <!---->
+    <section class="section-padding wow fadeInUp delay-05s" id="faq">
+        <div class="container">
+            <div class="row white">
+                <div class="col-md-12 col-sm-12">
+                    <div class="section-title">
+                        <h2 class="head-title black">Frequently asked questions</h2>
+                        <hr class="botm-line">
+                        <p class="sec-para black">
+<h3>Does this project require the Bitcoin price to rise forever?</h3>
+No. If the price of Bitcoin rises, the minters can get back their
+excess backing (in the form of Bitcoin collateral that is excessive
+or as a newly minted tokens).  As we use heavily smoothed price, the
+minting rate will almost always go down. For example as we write this,
+Bitcoin is around $7000, but our exponentially smoothed price factors
+in history and is around $700. So as long as the price of Bitcoin does not
+fall under $700, the smoothed price will rise. We want the backing
+to be stable and sufficient; we are building a stablecoin after all. So
+as time goes on, the minters will get back their excess backing as long
+as Bitcoin price does not fall down significantly.
+</p>
+                        <p class="sec-para black">
+That being said, our paper discusses what happens in case of significant drops
+in price of Bitcoin and we believe the fundaments of Cryptopeg can survive
+even in these scenarios.
+</p>
+                        <p class="sec-para black">
+<h3>Does this project depend on <a href="http://www.rsk.co/">Rootstock</a>?</h3>
+Our implementation is in Solidity, so currently yes. The idea can
+be implemented for other smart contract platforms and we encourage
+alternative implementations.
+</p>
+                        <p class="sec-para black">
+<h3>Can we run this on other smart contract platforms like Ethereum?</h3>
+While the implementation should be technically compatible with Ethereum,
+Ethereum Classic and other platforms that can run Solidity smart
+contracts, our smoothing parameter and minting rate calculations for
+backing and value stability are based on historical Bitcoin prices. We
+strongly discourage people running the code using other tokens as backing
+unless they do all the work outlined in the whitepaper to ensure that
+the backing is sufficient. The smoothing parameters are calculated
+for Bitcoin.
+</p>
+                        <p class="sec-para black">
+<h3>How do you expect to build network momentum to make Cryptopeg tokens
+accepted above other competing stablecoins?</h3>
+We are honestly no marketing wizards, but here are a few reasons why we
+think we might get traction: First of all, our model does not depend on
+a huge number of minters and huge market. As the currency is backed by bitcoin,
+it has minimal value from the start (guaranteed by the possibility to claim
+Bitcoin backing). So even with minimal network, even the first token has
+a minimal value.</p>
+<p>
+The second reason we believe Cryptopeg might be successful is the fact that it
+is an open-source project with no preferential treatment. It does not depend on
+whales, venture capital support or big player that will spread the word.
+Even we, the authors, don't have any sort of preferential treatment by the
+smart contract or the ecosystem and there are no fees charges by the smart contract.
+We would like to use this as a tool. We believe that this community aspect
+mirrors the original vision of Satoshi Nakamoto and Bitcoin and projects like Monero
+that are built and spread by the community of developers and users. We hope to
+gain trust by showing we can build and deliver a functioning product that we
+want to use ourselves and we welcome contributions, forks, pull requests to
+serve the blockchain community.
+</p>
+<p>
+That being said, we are not "against" competition. We just believe that blockchain
+world needs a stablecoin and that it does not matter if it is us who brings it to
+the world or our "competition". We wish all stablecoin projects good luck and
+if someone creates something better, we will use it ourselves.
+			</p>
+                        <p class="sec-para black">
+<h3>Who is working on the project?</h3>
+You!</p>
+<p>
+Jokes aside. The original authors prefer to stay anonymous. It is not about us.
+We want to make the parallel financial system more usable and for that we need
+a stable unit of account. That is our goal. The original idea was created by and
+consulted with programmers, economists, Bitcoin investors, mathematicians and
+other smart people. We welcome any contributions and are open to suggestions.
+</p>
+                        <p class="sec-para black">
+<h3>What are the next steps?</h3>
+We are working on an implementation that will run on Rootstock platform. At the
+same time we are looking for feedback on the whitepaper to make sure we can explain
+the project and the mechanics of it and find and fix all the bugs. If you have any
+kind of concern, suggestion, idea or question, please contact us. We promise you will
+soon have something to play with and we will have a decentralised stablecoin for world-wide
+use in no time.
+</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!---->
+    <!---->
     <!---->
     <!---->
     <section class="section-padding wow fadeInUp delay-05s" id="contact">
